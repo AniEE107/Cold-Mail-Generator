@@ -13,7 +13,7 @@ Interactive Development: Jupyter notebooks provided for experimenting with core 
 # File Structure
 Project is organized as follows:
 
-# Cold-Mail-Generator/
+ Cold-Mail-Generator/
 ├── .env                  # Environment variables for API keys
 ├── main.py               # Main application entry point (e.g., Streamlit app)
 ├── my_chains.py          # Contains LangChain (or similar) definitions for AI workflows
