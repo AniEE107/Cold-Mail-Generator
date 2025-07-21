@@ -1,1 +1,1 @@
-# Cold-Maik-Generator
+# Cold-Mail-Generator
