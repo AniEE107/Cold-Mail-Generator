@@ -9,3 +9,4 @@ python-dotenv==1.0.0
 tiktoken==0.7.0  # Required by many LangChain components
 pypdf==4.2.0  # For PDF processing
 PyPDF2==3.0.0  # Alternative PDF processor
+pyperclip==1.8.2 
